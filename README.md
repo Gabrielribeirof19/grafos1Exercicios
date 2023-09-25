@@ -11,8 +11,7 @@
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
-
+link para acessar o desafio https://www.hackerrank.com/challenges/kingdom-connectivity/problem?isFullScreen=true
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
